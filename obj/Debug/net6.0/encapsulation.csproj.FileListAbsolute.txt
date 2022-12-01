@@ -1,0 +1,15 @@
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.exe
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.deps.json
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.runtimeconfig.json
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.dll
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.pdb
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.dll
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\refint\encapsulation.dll
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.pdb
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.genruntimeconfig.cache
+C:\Users\Metehan\Desktop\Pratikler\encapsulation\obj\Debug\net6.0\ref\encapsulation.dll
